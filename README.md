@@ -1,2 +1,2 @@
 # flexTest
-flexレイアウトの
+flexレイアウトの練習
